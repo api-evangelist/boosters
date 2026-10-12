@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/boosters/integrations
+- https://n8n.io/integrations/boosters/
+- https://composio.dev/toolkits/boosters
+- https://monid.ai/tools/boosters
+checked:
+- https://composio.dev/toolkits/boosters
+- https://monid.ai/tools/boosters
+- https://n8n.io/integrations/boosters/
+- https://zapier.com/apps/boosters/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
